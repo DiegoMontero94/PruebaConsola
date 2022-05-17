@@ -9,5 +9,6 @@ namespace ConsoleApp1.Datos
     class Clase1
     {
         int val = 1;
+        bool val2 = true;
     }
 }
