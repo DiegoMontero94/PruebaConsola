@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1.Datos
 {
-    class Clase1
+    class Clase2
     {
-        int val = 1;
     }
 }
